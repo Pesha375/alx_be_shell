@@ -1,2 +1,2 @@
-#!/bin/bash specify that the script should be executed using the Bash shell
-su betty switch the current user to betty when executed
+#!/bin/bash
+su betty 
